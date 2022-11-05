@@ -11,18 +11,18 @@ AVR Atmega32 MCU, 2x 3LEDs(Red, Yellow, Green), Push Button, Proteus Software fo
 # Project Requirements
 
 <p align="center">
- <img src = "media/Reqs.png" width="512" height="512">
+ <img src = "media/Reqs.png" width="724" height="512">
 </p>
 
 # User Stories
 
 <p align="center">
- <img src = "media/UserStories.png" width="512" height="512">
+ <img src = "media/UserStories.png" width="724" height="512">
 </p>
 
 # Demo
 
 <p align="center">
- <img src = "media/demo.gif" width="272" height="512">
+ <img src = "media/Demo.gif" width="800" height="512">
 </p>
 
